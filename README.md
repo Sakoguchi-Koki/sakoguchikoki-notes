@@ -1,3 +1,3 @@
 # sakoguchi-notes
-#hennkou
+# hennkou
 
